@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Hello , this is my first git project.
+Suggest any changes if needed.
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Thank you!
